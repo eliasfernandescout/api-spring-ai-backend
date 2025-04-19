@@ -1,0 +1,10 @@
+###
+GET localhost:8080/ai?userInput=como estudar java?
+
+###
+POST localhost:8080/ai
+Content-Type: text/plain
+
+voce conhece Elias Fernandes Coutinho Neto?
+
+###
